@@ -1,0 +1,62 @@
+User: 350402934, Mark: 10
+
+User: 350402934, Mark: 8, Все понравилось)
+
+User: 350402934, Mark: 9, Все круто)
+
+User: 350402934, Mark: 10, Все супер!!!
+
+User: 350402934, Mark: 10
+
+User: 350402934, Mark: 8
+
+User: 350402934, Mark: 1, Text: Все плохо!
+
+User: 350402934, Mark: 10
+
+User: 350402934, Mark: 10
+
+User: 350402934, Mark: 8, Text: Крутяк)
+
+User: 350402934, Mark: 10
+
+User: 350402934, Mark: 1, Text: Все круто)
+
+User: 350402934, Mark: 1
+
+User: 350402934, Mark: 10
+
+User: 350402934, Mark: 10, Text: О нас
+
+User: 350402934, Mark: 10
+
+User: 350402934, Mark: 10, Text: О нас
+
+User: 350402934, Mark: 10
+
+User: 350402934, Mark: 10, Text: Круто все)
+
+User: 350402934, Mark: 4, Text: Отзыв
+
+User: 958801953, Mark: 10, Text: Очень круто
+
+User: 350402934, Mark: 8, Text: Круто)
+
+User: 350402934, Mark: 10, Text: Все очень понравилось!!!
+
+User: 350402934, Mark: 10, Text: Кайф)
+
+User: 350402934, Mark: 1, Text: Плохо
+
+User: 350402934, Mark: 10, Text: Кайф)
+
+User: 350402934, Mark: 7, Text: Кайф)
+
+User: 350402934, Mark: 7
+
+User: 350402934, Mark: 10, Text: Крутооооо!
+
+User: 350402934, Mark: 10, Text: Крутоооо!
+
+User: 350402934, Mark: 1
+
